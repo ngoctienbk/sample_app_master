@@ -1,3 +1,5 @@
 # sample_app
-Ruby on rails course's homework
+Admin account:
+* Email: admin@gmail.com
+* Password: 123456
 
